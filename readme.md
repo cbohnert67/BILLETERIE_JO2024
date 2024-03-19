@@ -1,3 +1,3 @@
 # Projet Billeterie électronique JO Paris 2024
 
-Ce projet est destiné à l'évaluation finale Studi pour obtenir le titre RNCP `Concepteur Développeur de solution Digitale`.
+Ce projet est destiné à l'évaluation finale Studi pour obtenir le titre RNCP `Concepteur Développeur de solution Digitale` dans le cadre de la préparation du Bachelor Développeur d'Application Python.
