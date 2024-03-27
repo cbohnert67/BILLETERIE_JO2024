@@ -1,0 +1,821 @@
+Nom_Sport,Code_Sport,Nom_Site,Code_Site,Date
+Escrime,FEN,Grand Palais,GRP,2024-07-27
+Escrime,FEN,Grand Palais,GRP,2024-07-28
+Escrime,FEN,Grand Palais,GRP,2024-07-29
+Escrime,FEN,Grand Palais,GRP,2024-07-30
+Escrime,FEN,Grand Palais,GRP,2024-07-31
+Escrime,FEN,Grand Palais,GRP,2024-08-01
+Escrime,FEN,Grand Palais,GRP,2024-08-02
+Escrime,FEN,Grand Palais,GRP,2024-08-03
+Escrime,FEN,Grand Palais,GRP,2024-08-04
+Escrime,FEN,Grand Palais,GRP,2024-08-05
+Escrime,FEN,Grand Palais,GRP,2024-08-06
+Escrime,FEN,Grand Palais,GRP,2024-08-07
+Escrime,FEN,Grand Palais,GRP,2024-08-08
+Escrime,FEN,Grand Palais,GRP,2024-08-09
+Escrime,FEN,Grand Palais,GRP,2024-08-10
+Taekwondo,TKW,Grand Palais,GRP,2024-07-27
+Taekwondo,TKW,Grand Palais,GRP,2024-07-28
+Taekwondo,TKW,Grand Palais,GRP,2024-07-29
+Taekwondo,TKW,Grand Palais,GRP,2024-07-30
+Taekwondo,TKW,Grand Palais,GRP,2024-07-31
+Taekwondo,TKW,Grand Palais,GRP,2024-08-01
+Taekwondo,TKW,Grand Palais,GRP,2024-08-02
+Taekwondo,TKW,Grand Palais,GRP,2024-08-03
+Taekwondo,TKW,Grand Palais,GRP,2024-08-04
+Taekwondo,TKW,Grand Palais,GRP,2024-08-05
+Taekwondo,TKW,Grand Palais,GRP,2024-08-06
+Taekwondo,TKW,Grand Palais,GRP,2024-08-07
+Taekwondo,TKW,Grand Palais,GRP,2024-08-08
+Taekwondo,TKW,Grand Palais,GRP,2024-08-09
+Taekwondo,TKW,Grand Palais,GRP,2024-08-10
+Judo,JUD,Arena Champ de Mars,CDM,2024-07-27
+Judo,JUD,Arena Champ de Mars,CDM,2024-07-28
+Judo,JUD,Arena Champ de Mars,CDM,2024-07-29
+Judo,JUD,Arena Champ de Mars,CDM,2024-07-30
+Judo,JUD,Arena Champ de Mars,CDM,2024-07-31
+Judo,JUD,Arena Champ de Mars,CDM,2024-08-01
+Judo,JUD,Arena Champ de Mars,CDM,2024-08-02
+Judo,JUD,Arena Champ de Mars,CDM,2024-08-03
+Judo,JUD,Arena Champ de Mars,CDM,2024-08-04
+Judo,JUD,Arena Champ de Mars,CDM,2024-08-05
+Judo,JUD,Arena Champ de Mars,CDM,2024-08-06
+Judo,JUD,Arena Champ de Mars,CDM,2024-08-07
+Judo,JUD,Arena Champ de Mars,CDM,2024-08-08
+Judo,JUD,Arena Champ de Mars,CDM,2024-08-09
+Judo,JUD,Arena Champ de Mars,CDM,2024-08-10
+Judo,JUD,Arena Champ de Mars,CDM,2024-08-11
+Lutte,WRE,Arena Champ de Mars,CDM,2024-07-27
+Lutte,WRE,Arena Champ de Mars,CDM,2024-07-28
+Lutte,WRE,Arena Champ de Mars,CDM,2024-07-29
+Lutte,WRE,Arena Champ de Mars,CDM,2024-07-30
+Lutte,WRE,Arena Champ de Mars,CDM,2024-07-31
+Lutte,WRE,Arena Champ de Mars,CDM,2024-08-01
+Lutte,WRE,Arena Champ de Mars,CDM,2024-08-02
+Lutte,WRE,Arena Champ de Mars,CDM,2024-08-03
+Lutte,WRE,Arena Champ de Mars,CDM,2024-08-04
+Lutte,WRE,Arena Champ de Mars,CDM,2024-08-05
+Lutte,WRE,Arena Champ de Mars,CDM,2024-08-06
+Lutte,WRE,Arena Champ de Mars,CDM,2024-08-07
+Lutte,WRE,Arena Champ de Mars,CDM,2024-08-08
+Lutte,WRE,Arena Champ de Mars,CDM,2024-08-09
+Lutte,WRE,Arena Champ de Mars,CDM,2024-08-10
+Lutte,WRE,Arena Champ de Mars,CDM,2024-08-11
+Tennis,TEN,Stade Roland Garros,RGA,2024-07-27
+Tennis,TEN,Stade Roland Garros,RGA,2024-07-28
+Tennis,TEN,Stade Roland Garros,RGA,2024-07-29
+Tennis,TEN,Stade Roland Garros,RGA,2024-07-30
+Tennis,TEN,Stade Roland Garros,RGA,2024-07-31
+Tennis,TEN,Stade Roland Garros,RGA,2024-08-01
+Tennis,TEN,Stade Roland Garros,RGA,2024-08-02
+Tennis,TEN,Stade Roland Garros,RGA,2024-08-03
+Tennis,TEN,Stade Roland Garros,RGA,2024-08-04
+Tennis,TEN,Stade Roland Garros,RGA,2024-08-05
+Tennis,TEN,Stade Roland Garros,RGA,2024-08-06
+Tennis,TEN,Stade Roland Garros,RGA,2024-08-07
+Tennis,TEN,Stade Roland Garros,RGA,2024-08-08
+Tennis,TEN,Stade Roland Garros,RGA,2024-08-09
+Tennis,TEN,Stade Roland Garros,RGA,2024-08-10
+Boxe,BOX,Stade Roland Garros,RGA,2024-07-27
+Boxe,BOX,Stade Roland Garros,RGA,2024-07-28
+Boxe,BOX,Stade Roland Garros,RGA,2024-07-29
+Boxe,BOX,Stade Roland Garros,RGA,2024-07-30
+Boxe,BOX,Stade Roland Garros,RGA,2024-07-31
+Boxe,BOX,Stade Roland Garros,RGA,2024-08-01
+Boxe,BOX,Stade Roland Garros,RGA,2024-08-02
+Boxe,BOX,Stade Roland Garros,RGA,2024-08-03
+Boxe,BOX,Stade Roland Garros,RGA,2024-08-04
+Boxe,BOX,Stade Roland Garros,RGA,2024-08-05
+Boxe,BOX,Stade Roland Garros,RGA,2024-08-06
+Boxe,BOX,Stade Roland Garros,RGA,2024-08-07
+Boxe,BOX,Stade Roland Garros,RGA,2024-08-08
+Boxe,BOX,Stade Roland Garros,RGA,2024-08-09
+Boxe,BOX,Stade Roland Garros,RGA,2024-08-10
+Surf,SRF,Tahiti Teahupo'o,TAH,2024-07-27
+Surf,SRF,Tahiti Teahupo'o,TAH,2024-07-28
+Surf,SRF,Tahiti Teahupo'o,TAH,2024-07-29
+Surf,SRF,Tahiti Teahupo'o,TAH,2024-07-30
+Badminton,BDM,Arena Porte de la Chapelle,CPL,2024-07-27
+Badminton,BDM,Arena Porte de la Chapelle,CPL,2024-07-28
+Badminton,BDM,Arena Porte de la Chapelle,CPL,2024-07-29
+Badminton,BDM,Arena Porte de la Chapelle,CPL,2024-07-30
+Badminton,BDM,Arena Porte de la Chapelle,CPL,2024-07-31
+Badminton,BDM,Arena Porte de la Chapelle,CPL,2024-08-01
+Badminton,BDM,Arena Porte de la Chapelle,CPL,2024-08-02
+Badminton,BDM,Arena Porte de la Chapelle,CPL,2024-08-03
+Badminton,BDM,Arena Porte de la Chapelle,CPL,2024-08-04
+Badminton,BDM,Arena Porte de la Chapelle,CPL,2024-08-05
+Badminton,BDM,Arena Porte de la Chapelle,CPL,2024-08-06
+Badminton,BDM,Arena Porte de la Chapelle,CPL,2024-08-07
+Badminton,BDM,Arena Porte de la Chapelle,CPL,2024-08-08
+Badminton,BDM,Arena Porte de la Chapelle,CPL,2024-08-09
+Badminton,BDM,Arena Porte de la Chapelle,CPL,2024-08-10
+Gymnastique rythmique,GRY,Arena Porte de la Chapelle,CPL,2024-07-27
+Gymnastique rythmique,GRY,Arena Porte de la Chapelle,CPL,2024-07-28
+Gymnastique rythmique,GRY,Arena Porte de la Chapelle,CPL,2024-07-29
+Gymnastique rythmique,GRY,Arena Porte de la Chapelle,CPL,2024-07-30
+Gymnastique rythmique,GRY,Arena Porte de la Chapelle,CPL,2024-07-31
+Gymnastique rythmique,GRY,Arena Porte de la Chapelle,CPL,2024-08-01
+Gymnastique rythmique,GRY,Arena Porte de la Chapelle,CPL,2024-08-02
+Gymnastique rythmique,GRY,Arena Porte de la Chapelle,CPL,2024-08-03
+Gymnastique rythmique,GRY,Arena Porte de la Chapelle,CPL,2024-08-04
+Gymnastique rythmique,GRY,Arena Porte de la Chapelle,CPL,2024-08-05
+Gymnastique rythmique,GRY,Arena Porte de la Chapelle,CPL,2024-08-06
+Gymnastique rythmique,GRY,Arena Porte de la Chapelle,CPL,2024-08-07
+Gymnastique rythmique,GRY,Arena Porte de la Chapelle,CPL,2024-08-08
+Gymnastique rythmique,GRY,Arena Porte de la Chapelle,CPL,2024-08-09
+Gymnastique rythmique,GRY,Arena Porte de la Chapelle,CPL,2024-08-10
+Basketball,BKB,Arena Bercy,BCY,2024-07-27
+Basketball,BKB,Arena Bercy,BCY,2024-07-28
+Basketball,BKB,Arena Bercy,BCY,2024-07-29
+Basketball,BKB,Arena Bercy,BCY,2024-07-30
+Basketball,BKB,Arena Bercy,BCY,2024-07-31
+Basketball,BKB,Arena Bercy,BCY,2024-08-01
+Basketball,BKB,Arena Bercy,BCY,2024-08-02
+Basketball,BKB,Arena Bercy,BCY,2024-08-03
+Basketball,BKB,Arena Bercy,BCY,2024-08-04
+Basketball,BKB,Arena Bercy,BCY,2024-08-05
+Basketball,BKB,Arena Bercy,BCY,2024-08-06
+Basketball,BKB,Arena Bercy,BCY,2024-08-07
+Basketball,BKB,Arena Bercy,BCY,2024-08-08
+Basketball,BKB,Arena Bercy,BCY,2024-08-09
+Basketball,BKB,Arena Bercy,BCY,2024-08-10
+Basketball,BKB,Arena Bercy,BCY,2024-08-11
+Gymnastique artistique,GAR,Arena Bercy,BCY,2024-07-27
+Gymnastique artistique,GAR,Arena Bercy,BCY,2024-07-28
+Gymnastique artistique,GAR,Arena Bercy,BCY,2024-07-29
+Gymnastique artistique,GAR,Arena Bercy,BCY,2024-07-30
+Gymnastique artistique,GAR,Arena Bercy,BCY,2024-07-31
+Gymnastique artistique,GAR,Arena Bercy,BCY,2024-08-01
+Gymnastique artistique,GAR,Arena Bercy,BCY,2024-08-02
+Gymnastique artistique,GAR,Arena Bercy,BCY,2024-08-03
+Gymnastique artistique,GAR,Arena Bercy,BCY,2024-08-04
+Gymnastique artistique,GAR,Arena Bercy,BCY,2024-08-05
+Gymnastique artistique,GAR,Arena Bercy,BCY,2024-08-06
+Gymnastique artistique,GAR,Arena Bercy,BCY,2024-08-07
+Gymnastique artistique,GAR,Arena Bercy,BCY,2024-08-08
+Gymnastique artistique,GAR,Arena Bercy,BCY,2024-08-09
+Gymnastique artistique,GAR,Arena Bercy,BCY,2024-08-10
+Gymnastique artistique,GAR,Arena Bercy,BCY,2024-08-11
+Gymnastique trampoline,GTR,Arena Bercy,BCY,2024-07-27
+Gymnastique trampoline,GTR,Arena Bercy,BCY,2024-07-28
+Gymnastique trampoline,GTR,Arena Bercy,BCY,2024-07-29
+Gymnastique trampoline,GTR,Arena Bercy,BCY,2024-07-30
+Gymnastique trampoline,GTR,Arena Bercy,BCY,2024-07-31
+Gymnastique trampoline,GTR,Arena Bercy,BCY,2024-08-01
+Gymnastique trampoline,GTR,Arena Bercy,BCY,2024-08-02
+Gymnastique trampoline,GTR,Arena Bercy,BCY,2024-08-03
+Gymnastique trampoline,GTR,Arena Bercy,BCY,2024-08-04
+Gymnastique trampoline,GTR,Arena Bercy,BCY,2024-08-05
+Gymnastique trampoline,GTR,Arena Bercy,BCY,2024-08-06
+Gymnastique trampoline,GTR,Arena Bercy,BCY,2024-08-07
+Gymnastique trampoline,GTR,Arena Bercy,BCY,2024-08-08
+Gymnastique trampoline,GTR,Arena Bercy,BCY,2024-08-09
+Gymnastique trampoline,GTR,Arena Bercy,BCY,2024-08-10
+Gymnastique trampoline,GTR,Arena Bercy,BCY,2024-08-11
+Football,FBL,Parc des Princes,PDP,2024-07-24
+Football,FBL,Parc des Princes,PDP,2024-07-25
+Football,FBL,Parc des Princes,PDP,2024-07-26
+Football,FBL,Parc des Princes,PDP,2024-07-27
+Football,FBL,Parc des Princes,PDP,2024-07-28
+Football,FBL,Parc des Princes,PDP,2024-07-29
+Football,FBL,Parc des Princes,PDP,2024-07-30
+Football,FBL,Parc des Princes,PDP,2024-07-31
+Football,FBL,Parc des Princes,PDP,2024-08-01
+Football,FBL,Parc des Princes,PDP,2024-08-02
+Football,FBL,Parc des Princes,PDP,2024-08-03
+Football,FBL,Parc des Princes,PDP,2024-08-04
+Football,FBL,Parc des Princes,PDP,2024-08-05
+Football,FBL,Parc des Princes,PDP,2024-08-06
+Football,FBL,Parc des Princes,PDP,2024-08-07
+Football,FBL,Parc des Princes,PDP,2024-08-08
+Football,FBL,Parc des Princes,PDP,2024-08-09
+Football,FBL,Parc des Princes,PDP,2024-08-10
+Football,FBL,Stade de la Beaujoire,NAN,2024-07-24
+Football,FBL,Stade de la Beaujoire,NAN,2024-07-25
+Football,FBL,Stade de la Beaujoire,NAN,2024-07-26
+Football,FBL,Stade de la Beaujoire,NAN,2024-07-27
+Football,FBL,Stade de la Beaujoire,NAN,2024-07-28
+Football,FBL,Stade de la Beaujoire,NAN,2024-07-29
+Football,FBL,Stade de la Beaujoire,NAN,2024-07-30
+Football,FBL,Stade de la Beaujoire,NAN,2024-07-31
+Football,FBL,Stade de la Beaujoire,NAN,2024-08-01
+Football,FBL,Stade de la Beaujoire,NAN,2024-08-02
+Football,FBL,Stade de la Beaujoire,NAN,2024-08-03
+Football,FBL,Stade de la Beaujoire,NAN,2024-08-04
+Football,FBL,Stade de la Beaujoire,NAN,2024-08-05
+Football,FBL,Stade de la Beaujoire,NAN,2024-08-06
+Football,FBL,Stade de la Beaujoire,NAN,2024-08-07
+Football,FBL,Stade de la Beaujoire,NAN,2024-08-08
+Football,FBL,Stade de Lyon,LYO,2024-07-24
+Football,FBL,Stade de Lyon,LYO,2024-07-25
+Football,FBL,Stade de Lyon,LYO,2024-07-26
+Football,FBL,Stade de Lyon,LYO,2024-07-27
+Football,FBL,Stade de Lyon,LYO,2024-07-28
+Football,FBL,Stade de Lyon,LYO,2024-07-29
+Football,FBL,Stade de Lyon,LYO,2024-07-30
+Football,FBL,Stade de Lyon,LYO,2024-07-31
+Football,FBL,Stade de Lyon,LYO,2024-08-01
+Football,FBL,Stade de Lyon,LYO,2024-08-02
+Football,FBL,Stade de Lyon,LYO,2024-08-03
+Football,FBL,Stade de Lyon,LYO,2024-08-04
+Football,FBL,Stade de Lyon,LYO,2024-08-05
+Football,FBL,Stade de Lyon,LYO,2024-08-06
+Football,FBL,Stade de Lyon,LYO,2024-08-07
+Football,FBL,Stade de Lyon,LYO,2024-08-08
+Football,FBL,Stade de Lyon,LYO,2024-08-09
+Football,FBL,Stade de Lyon,LYO,2024-08-10
+Volley-ball,VVO,Arena Paris Sud 1,SP1,2024-07-27
+Volley-ball,VVO,Arena Paris Sud 1,SP1,2024-07-28
+Volley-ball,VVO,Arena Paris Sud 1,SP1,2024-07-29
+Volley-ball,VVO,Arena Paris Sud 1,SP1,2024-07-30
+Volley-ball,VVO,Arena Paris Sud 1,SP1,2024-07-31
+Volley-ball,VVO,Arena Paris Sud 1,SP1,2024-08-01
+Volley-ball,VVO,Arena Paris Sud 1,SP1,2024-08-02
+Volley-ball,VVO,Arena Paris Sud 1,SP1,2024-08-03
+Volley-ball,VVO,Arena Paris Sud 1,SP1,2024-08-04
+Volley-ball,VVO,Arena Paris Sud 1,SP1,2024-08-05
+Volley-ball,VVO,Arena Paris Sud 1,SP1,2024-08-06
+Volley-ball,VVO,Arena Paris Sud 1,SP1,2024-08-07
+Volley-ball,VVO,Arena Paris Sud 1,SP1,2024-08-08
+Volley-ball,VVO,Arena Paris Sud 1,SP1,2024-08-09
+Volley-ball,VVO,Arena Paris Sud 1,SP1,2024-08-10
+Volley-ball,VVO,Arena Paris Sud 1,SP1,2024-08-11
+Boxe,BOX,Arena Paris Nord,NPA,2024-08-08
+Pentathlon moderne,MDN,Arena Paris Nord,NPA,2024-08-08
+Aviron,ROW,Stade nautique de Vaires-sur-Marne - bassin d'eau calme,VN1,2024-07-27
+Aviron,ROW,Stade nautique de Vaires-sur-Marne - bassin d'eau calme,VN1,2024-07-28
+Aviron,ROW,Stade nautique de Vaires-sur-Marne - bassin d'eau calme,VN1,2024-07-29
+Aviron,ROW,Stade nautique de Vaires-sur-Marne - bassin d'eau calme,VN1,2024-07-30
+Aviron,ROW,Stade nautique de Vaires-sur-Marne - bassin d'eau calme,VN1,2024-07-31
+Aviron,ROW,Stade nautique de Vaires-sur-Marne - bassin d'eau calme,VN1,2024-08-01
+Aviron,ROW,Stade nautique de Vaires-sur-Marne - bassin d'eau calme,VN1,2024-08-02
+Aviron,ROW,Stade nautique de Vaires-sur-Marne - bassin d'eau calme,VN1,2024-08-03
+Aviron,ROW,Stade nautique de Vaires-sur-Marne - bassin d'eau calme,VN1,2024-08-04
+Aviron,ROW,Stade nautique de Vaires-sur-Marne - bassin d'eau calme,VN1,2024-08-05
+Aviron,ROW,Stade nautique de Vaires-sur-Marne - bassin d'eau calme,VN1,2024-08-06
+Aviron,ROW,Stade nautique de Vaires-sur-Marne - bassin d'eau calme,VN1,2024-08-07
+Aviron,ROW,Stade nautique de Vaires-sur-Marne - bassin d'eau calme,VN1,2024-08-08
+Aviron,ROW,Stade nautique de Vaires-sur-Marne - bassin d'eau calme,VN1,2024-08-09
+Aviron,ROW,Stade nautique de Vaires-sur-Marne - bassin d'eau calme,VN1,2024-08-10
+Canoë-kayak sprint,CSP,Stade nautique de Vaires-sur-Marne - bassin d'eau calme,VN1,2024-07-27
+Canoë-kayak sprint,CSP,Stade nautique de Vaires-sur-Marne - bassin d'eau calme,VN1,2024-07-28
+Canoë-kayak sprint,CSP,Stade nautique de Vaires-sur-Marne - bassin d'eau calme,VN1,2024-07-29
+Canoë-kayak sprint,CSP,Stade nautique de Vaires-sur-Marne - bassin d'eau calme,VN1,2024-07-30
+Canoë-kayak sprint,CSP,Stade nautique de Vaires-sur-Marne - bassin d'eau calme,VN1,2024-07-31
+Canoë-kayak sprint,CSP,Stade nautique de Vaires-sur-Marne - bassin d'eau calme,VN1,2024-08-01
+Canoë-kayak sprint,CSP,Stade nautique de Vaires-sur-Marne - bassin d'eau calme,VN1,2024-08-02
+Canoë-kayak sprint,CSP,Stade nautique de Vaires-sur-Marne - bassin d'eau calme,VN1,2024-08-03
+Canoë-kayak sprint,CSP,Stade nautique de Vaires-sur-Marne - bassin d'eau calme,VN1,2024-08-04
+Canoë-kayak sprint,CSP,Stade nautique de Vaires-sur-Marne - bassin d'eau calme,VN1,2024-08-05
+Canoë-kayak sprint,CSP,Stade nautique de Vaires-sur-Marne - bassin d'eau calme,VN1,2024-08-06
+Canoë-kayak sprint,CSP,Stade nautique de Vaires-sur-Marne - bassin d'eau calme,VN1,2024-08-07
+Canoë-kayak sprint,CSP,Stade nautique de Vaires-sur-Marne - bassin d'eau calme,VN1,2024-08-08
+Canoë-kayak sprint,CSP,Stade nautique de Vaires-sur-Marne - bassin d'eau calme,VN1,2024-08-09
+Canoë-kayak sprint,CSP,Stade nautique de Vaires-sur-Marne - bassin d'eau calme,VN1,2024-08-10
+Football,FBL,Stade Geoffroy-Guichard,STE,2024-07-24
+Football,FBL,Stade Geoffroy-Guichard,STE,2024-07-25
+Football,FBL,Stade Geoffroy-Guichard,STE,2024-07-26
+Football,FBL,Stade Geoffroy-Guichard,STE,2024-07-27
+Football,FBL,Stade Geoffroy-Guichard,STE,2024-07-28
+Football,FBL,Stade Geoffroy-Guichard,STE,2024-07-29
+Football,FBL,Stade Geoffroy-Guichard,STE,2024-07-30
+Football,FBL,Stade Geoffroy-Guichard,STE,2024-07-31
+Football,FBL,Stade Geoffroy-Guichard,STE,2024-08-01
+Football,FBL,Stade Geoffroy-Guichard,STE,2024-08-02
+Football,FBL,Stade Geoffroy-Guichard,STE,2024-08-03
+Football,FBL,Stade Geoffroy-Guichard,STE,2024-08-04
+Football,FBL,Stade Geoffroy-Guichard,STE,2024-08-05
+Football,FBL,Stade Geoffroy-Guichard,STE,2024-08-06
+Football,FBL,Stade Geoffroy-Guichard,STE,2024-08-07
+Football,FBL,Stade Geoffroy-Guichard,STE,2024-08-08
+Football,FBL,Stade Geoffroy-Guichard,STE,2024-08-09
+Football,FBL,Stade Geoffroy-Guichard,STE,2024-08-10
+Football,FBL,Stade de Bordeaux,BOR,2024-07-24
+Football,FBL,Stade de Bordeaux,BOR,2024-07-25
+Football,FBL,Stade de Bordeaux,BOR,2024-07-26
+Football,FBL,Stade de Bordeaux,BOR,2024-07-27
+Football,FBL,Stade de Bordeaux,BOR,2024-07-28
+Football,FBL,Stade de Bordeaux,BOR,2024-07-29
+Football,FBL,Stade de Bordeaux,BOR,2024-07-30
+Football,FBL,Stade de Bordeaux,BOR,2024-07-31
+Football,FBL,Stade de Bordeaux,BOR,2024-08-01
+Football,FBL,Stade de Bordeaux,BOR,2024-08-02
+Football,FBL,Stade de Bordeaux,BOR,2024-08-03
+Football,FBL,Stade de Bordeaux,BOR,2024-08-04
+Football,FBL,Stade de Bordeaux,BOR,2024-08-05
+Football,FBL,Stade de Bordeaux,BOR,2024-08-06
+Football,FBL,Stade de Bordeaux,BOR,2024-08-07
+Football,FBL,Stade de Bordeaux,BOR,2024-08-08
+Football,FBL,Stade de Bordeaux,BOR,2024-08-09
+Football,FBL,Stade de Bordeaux,BOR,2024-08-10
+Tennis de table,TTE,Arena Paris Sud 4,SP4,2024-07-27
+Tennis de table,TTE,Arena Paris Sud 4,SP4,2024-07-28
+Tennis de table,TTE,Arena Paris Sud 4,SP4,2024-07-29
+Tennis de table,TTE,Arena Paris Sud 4,SP4,2024-07-30
+Tennis de table,TTE,Arena Paris Sud 4,SP4,2024-07-31
+Tennis de table,TTE,Arena Paris Sud 4,SP4,2024-08-01
+Tennis de table,TTE,Arena Paris Sud 4,SP4,2024-08-02
+Tennis de table,TTE,Arena Paris Sud 4,SP4,2024-08-03
+Tennis de table,TTE,Arena Paris Sud 4,SP4,2024-08-04
+Tennis de table,TTE,Arena Paris Sud 4,SP4,2024-08-05
+Tennis de table,TTE,Arena Paris Sud 4,SP4,2024-08-06
+Tennis de table,TTE,Arena Paris Sud 4,SP4,2024-08-07
+Tennis de table,TTE,Arena Paris Sud 4,SP4,2024-08-08
+Tennis de table,TTE,Arena Paris Sud 4,SP4,2024-08-09
+Tennis de table,TTE,Arena Paris Sud 4,SP4,2024-08-10
+Athlétisme,ATH,Stade de France,STA,2024-07-24
+Athlétisme,ATH,Stade de France,STA,2024-07-25
+Athlétisme,ATH,Stade de France,STA,2024-07-26
+Athlétisme,ATH,Stade de France,STA,2024-07-27
+Athlétisme,ATH,Stade de France,STA,2024-07-28
+Athlétisme,ATH,Stade de France,STA,2024-07-29
+Athlétisme,ATH,Stade de France,STA,2024-07-30
+Athlétisme,ATH,Stade de France,STA,2024-07-31
+Athlétisme,ATH,Stade de France,STA,2024-08-01
+Athlétisme,ATH,Stade de France,STA,2024-08-02
+Athlétisme,ATH,Stade de France,STA,2024-08-03
+Athlétisme,ATH,Stade de France,STA,2024-08-04
+Athlétisme,ATH,Stade de France,STA,2024-08-05
+Athlétisme,ATH,Stade de France,STA,2024-08-06
+Athlétisme,ATH,Stade de France,STA,2024-08-07
+Athlétisme,ATH,Stade de France,STA,2024-08-08
+Athlétisme,ATH,Stade de France,STA,2024-08-09
+Athlétisme,ATH,Stade de France,STA,2024-08-10
+Rugby à 7,RU7,Stade de France,STA,2024-07-24
+Rugby à 7,RU7,Stade de France,STA,2024-07-25
+Rugby à 7,RU7,Stade de France,STA,2024-07-26
+Rugby à 7,RU7,Stade de France,STA,2024-07-27
+Rugby à 7,RU7,Stade de France,STA,2024-07-28
+Rugby à 7,RU7,Stade de France,STA,2024-07-29
+Rugby à 7,RU7,Stade de France,STA,2024-07-30
+Rugby à 7,RU7,Stade de France,STA,2024-07-31
+Rugby à 7,RU7,Stade de France,STA,2024-08-01
+Rugby à 7,RU7,Stade de France,STA,2024-08-02
+Rugby à 7,RU7,Stade de France,STA,2024-08-03
+Rugby à 7,RU7,Stade de France,STA,2024-08-04
+Rugby à 7,RU7,Stade de France,STA,2024-08-05
+Rugby à 7,RU7,Stade de France,STA,2024-08-06
+Rugby à 7,RU7,Stade de France,STA,2024-08-07
+Rugby à 7,RU7,Stade de France,STA,2024-08-08
+Rugby à 7,RU7,Stade de France,STA,2024-08-09
+Rugby à 7,RU7,Stade de France,STA,2024-08-10
+Cycling Mountain Bike,MTB,Colline d’Elancourt,ELA,2024-07-28
+Cycling Mountain Bike,MTB,Colline d’Elancourt,ELA,2024-07-29
+Basketball,BKB,Stade Pierre Mauroy,LIL,2024-07-27
+Basketball,BKB,Stade Pierre Mauroy,LIL,2024-07-28
+Basketball,BKB,Stade Pierre Mauroy,LIL,2024-07-29
+Basketball,BKB,Stade Pierre Mauroy,LIL,2024-07-30
+Basketball,BKB,Stade Pierre Mauroy,LIL,2024-07-31
+Basketball,BKB,Stade Pierre Mauroy,LIL,2024-08-01
+Basketball,BKB,Stade Pierre Mauroy,LIL,2024-08-02
+Basketball,BKB,Stade Pierre Mauroy,LIL,2024-08-03
+Basketball,BKB,Stade Pierre Mauroy,LIL,2024-08-04
+Basketball,BKB,Stade Pierre Mauroy,LIL,2024-08-05
+Basketball,BKB,Stade Pierre Mauroy,LIL,2024-08-06
+Basketball,BKB,Stade Pierre Mauroy,LIL,2024-08-07
+Basketball,BKB,Stade Pierre Mauroy,LIL,2024-08-08
+Basketball,BKB,Stade Pierre Mauroy,LIL,2024-08-09
+Basketball,BKB,Stade Pierre Mauroy,LIL,2024-08-10
+Basketball,BKB,Stade Pierre Mauroy,LIL,2024-08-11
+Handball,HBL,Stade Pierre Mauroy,LIL,2024-07-27
+Handball,HBL,Stade Pierre Mauroy,LIL,2024-07-28
+Handball,HBL,Stade Pierre Mauroy,LIL,2024-07-29
+Handball,HBL,Stade Pierre Mauroy,LIL,2024-07-30
+Handball,HBL,Stade Pierre Mauroy,LIL,2024-07-31
+Handball,HBL,Stade Pierre Mauroy,LIL,2024-08-01
+Handball,HBL,Stade Pierre Mauroy,LIL,2024-08-02
+Handball,HBL,Stade Pierre Mauroy,LIL,2024-08-03
+Handball,HBL,Stade Pierre Mauroy,LIL,2024-08-04
+Handball,HBL,Stade Pierre Mauroy,LIL,2024-08-05
+Handball,HBL,Stade Pierre Mauroy,LIL,2024-08-06
+Handball,HBL,Stade Pierre Mauroy,LIL,2024-08-07
+Handball,HBL,Stade Pierre Mauroy,LIL,2024-08-08
+Handball,HBL,Stade Pierre Mauroy,LIL,2024-08-09
+Handball,HBL,Stade Pierre Mauroy,LIL,2024-08-10
+Handball,HBL,Stade Pierre Mauroy,LIL,2024-08-11
+Football,FBL,Stade de Nice,NIC,2024-07-24
+Football,FBL,Stade de Nice,NIC,2024-07-25
+Football,FBL,Stade de Nice,NIC,2024-07-26
+Football,FBL,Stade de Nice,NIC,2024-07-27
+Football,FBL,Stade de Nice,NIC,2024-07-28
+Football,FBL,Stade de Nice,NIC,2024-07-29
+Football,FBL,Stade de Nice,NIC,2024-07-30
+Football,FBL,Stade de Nice,NIC,2024-07-31
+Football,FBL,Stade de Nice,NIC,2024-08-01
+Football,FBL,Stade de Nice,NIC,2024-08-02
+Football,FBL,Stade de Nice,NIC,2024-08-03
+Football,FBL,Stade de Nice,NIC,2024-08-04
+Football,FBL,Stade de Nice,NIC,2024-08-05
+Football,FBL,Stade de Nice,NIC,2024-08-06
+Football,FBL,Stade de Nice,NIC,2024-08-07
+Football,FBL,Stade de Nice,NIC,2024-08-08
+Football,FBL,Stade de Nice,NIC,2024-08-09
+Football,FBL,Stade de Nice,NIC,2024-08-10
+Voile,SAL,Marina de Marseille,MAM,2024-07-28
+Voile,SAL,Marina de Marseille,MAM,2024-07-29
+Voile,SAL,Marina de Marseille,MAM,2024-07-30
+Voile,SAL,Marina de Marseille,MAM,2024-07-31
+Voile,SAL,Marina de Marseille,MAM,2024-08-01
+Voile,SAL,Marina de Marseille,MAM,2024-08-02
+Voile,SAL,Marina de Marseille,MAM,2024-08-03
+Voile,SAL,Marina de Marseille,MAM,2024-08-04
+Voile,SAL,Marina de Marseille,MAM,2024-08-05
+Voile,SAL,Marina de Marseille,MAM,2024-08-06
+Voile,SAL,Marina de Marseille,MAM,2024-08-07
+Voile,SAL,Marina de Marseille,MAM,2024-08-08
+Voile,SAL,Marina de Marseille,MAM,2024-08-09
+Voile,SAL,Marina de Marseille,MAM,2024-08-10
+Handball,HBL,Arena Paris Sud 6,SP6,2024-07-25
+Handball,HBL,Arena Paris Sud 6,SP6,2024-07-26
+Handball,HBL,Arena Paris Sud 6,SP6,2024-07-27
+Handball,HBL,Arena Paris Sud 6,SP6,2024-07-28
+Handball,HBL,Arena Paris Sud 6,SP6,2024-07-29
+Handball,HBL,Arena Paris Sud 6,SP6,2024-07-30
+Handball,HBL,Arena Paris Sud 6,SP6,2024-07-31
+Handball,HBL,Arena Paris Sud 6,SP6,2024-08-01
+Handball,HBL,Arena Paris Sud 6,SP6,2024-08-02
+Handball,HBL,Arena Paris Sud 6,SP6,2024-08-03
+Handball,HBL,Arena Paris Sud 6,SP6,2024-08-04
+Handball,HBL,Arena Paris Sud 6,SP6,2024-08-05
+Handball,HBL,Arena Paris Sud 6,SP6,2024-08-06
+Handball,HBL,Arena Paris Sud 6,SP6,2024-08-07
+Handball,HBL,Arena Paris Sud 6,SP6,2024-08-08
+Handball,HBL,Arena Paris Sud 6,SP6,2024-08-09
+Handball,HBL,Arena Paris Sud 6,SP6,2024-08-10
+Handball,HBL,Arena Paris Sud 6,SP6,2024-08-11
+Haltérophilie,WLF,Arena Paris Sud 6,SP6,2024-07-25
+Haltérophilie,WLF,Arena Paris Sud 6,SP6,2024-07-26
+Haltérophilie,WLF,Arena Paris Sud 6,SP6,2024-07-27
+Haltérophilie,WLF,Arena Paris Sud 6,SP6,2024-07-28
+Haltérophilie,WLF,Arena Paris Sud 6,SP6,2024-07-29
+Haltérophilie,WLF,Arena Paris Sud 6,SP6,2024-07-30
+Haltérophilie,WLF,Arena Paris Sud 6,SP6,2024-07-31
+Haltérophilie,WLF,Arena Paris Sud 6,SP6,2024-08-01
+Haltérophilie,WLF,Arena Paris Sud 6,SP6,2024-08-02
+Haltérophilie,WLF,Arena Paris Sud 6,SP6,2024-08-03
+Haltérophilie,WLF,Arena Paris Sud 6,SP6,2024-08-04
+Haltérophilie,WLF,Arena Paris Sud 6,SP6,2024-08-05
+Haltérophilie,WLF,Arena Paris Sud 6,SP6,2024-08-06
+Haltérophilie,WLF,Arena Paris Sud 6,SP6,2024-08-07
+Haltérophilie,WLF,Arena Paris Sud 6,SP6,2024-08-08
+Haltérophilie,WLF,Arena Paris Sud 6,SP6,2024-08-09
+Haltérophilie,WLF,Arena Paris Sud 6,SP6,2024-08-10
+Haltérophilie,WLF,Arena Paris Sud 6,SP6,2024-08-11
+Volley-ball de plage,VBV,Stade Tour Eiffel,EIF,2024-07-27
+Volley-ball de plage,VBV,Stade Tour Eiffel,EIF,2024-07-28
+Volley-ball de plage,VBV,Stade Tour Eiffel,EIF,2024-07-29
+Volley-ball de plage,VBV,Stade Tour Eiffel,EIF,2024-07-30
+Volley-ball de plage,VBV,Stade Tour Eiffel,EIF,2024-07-31
+Volley-ball de plage,VBV,Stade Tour Eiffel,EIF,2024-08-01
+Volley-ball de plage,VBV,Stade Tour Eiffel,EIF,2024-08-02
+Volley-ball de plage,VBV,Stade Tour Eiffel,EIF,2024-08-03
+Volley-ball de plage,VBV,Stade Tour Eiffel,EIF,2024-08-04
+Volley-ball de plage,VBV,Stade Tour Eiffel,EIF,2024-08-05
+Volley-ball de plage,VBV,Stade Tour Eiffel,EIF,2024-08-06
+Volley-ball de plage,VBV,Stade Tour Eiffel,EIF,2024-08-07
+Volley-ball de plage,VBV,Stade Tour Eiffel,EIF,2024-08-08
+Volley-ball de plage,VBV,Stade Tour Eiffel,EIF,2024-08-09
+Volley-ball de plage,VBV,Stade Tour Eiffel,EIF,2024-08-10
+Athlétisme marche,ATH,Trocadéro,TRO,2024-08-01
+Athlétisme marche,ATH,Trocadéro,TRO,2024-08-02
+Athlétisme marche,ATH,Trocadéro,TRO,2024-08-03
+Athlétisme marche,ATH,Trocadéro,TRO,2024-08-04
+Athlétisme marche,ATH,Trocadéro,TRO,2024-08-05
+Athlétisme marche,ATH,Trocadéro,TRO,2024-08-06
+Athlétisme marche,ATH,Trocadéro,TRO,2024-08-07
+Cyclisme sur route - Course sur route,CRD,Trocadéro,TRO,2024-08-01
+Cyclisme sur route - Course sur route,CRD,Trocadéro,TRO,2024-08-02
+Cyclisme sur route - Course sur route,CRD,Trocadéro,TRO,2024-08-03
+Cyclisme sur route - Course sur route,CRD,Trocadéro,TRO,2024-08-04
+Cyclisme sur route - Course sur route,CRD,Trocadéro,TRO,2024-08-05
+Cyclisme sur route - Course sur route,CRD,Trocadéro,TRO,2024-08-06
+Cyclisme sur route - Course sur route,CRD,Trocadéro,TRO,2024-08-07
+Hockey,HOC,Stade Yves-du-Manoir,YDM,2024-07-27
+Hockey,HOC,Stade Yves-du-Manoir,YDM,2024-07-28
+Hockey,HOC,Stade Yves-du-Manoir,YDM,2024-07-29
+Hockey,HOC,Stade Yves-du-Manoir,YDM,2024-07-30
+Hockey,HOC,Stade Yves-du-Manoir,YDM,2024-07-31
+Hockey,HOC,Stade Yves-du-Manoir,YDM,2024-08-01
+Hockey,HOC,Stade Yves-du-Manoir,YDM,2024-08-02
+Hockey,HOC,Stade Yves-du-Manoir,YDM,2024-08-03
+Hockey,HOC,Stade Yves-du-Manoir,YDM,2024-08-04
+Hockey,HOC,Stade Yves-du-Manoir,YDM,2024-08-05
+Hockey,HOC,Stade Yves-du-Manoir,YDM,2024-08-06
+Hockey,HOC,Stade Yves-du-Manoir,YDM,2024-08-07
+Hockey,HOC,Stade Yves-du-Manoir,YDM,2024-08-08
+Hockey,HOC,Stade Yves-du-Manoir,YDM,2024-08-09
+Escalade,CLB,Site d’escalade du Bourget,LBO,2024-08-05
+Escalade,CLB,Site d’escalade du Bourget,LBO,2024-08-06
+Escalade,CLB,Site d’escalade du Bourget,LBO,2024-08-07
+Escalade,CLB,Site d’escalade du Bourget,LBO,2024-08-08
+Escalade,CLB,Site d’escalade du Bourget,LBO,2024-08-09
+Escalade,CLB,Site d’escalade du Bourget,LBO,2024-08-10
+Golf,GLF,Golf National,LGN,2024-09-01
+Golf,GLF,Golf National,LGN,2024-09-02
+Golf,GLF,Golf National,LGN,2024-09-03
+Golf,GLF,Golf National,LGN,2024-09-04
+Golf,GLF,Golf National,LGN,2024-09-05
+Golf,GLF,Golf National,LGN,2024-09-06
+Golf,GLF,Golf National,LGN,2024-09-07
+Golf,GLF,Golf National,LGN,2024-09-08
+Golf,GLF,Golf National,LGN,2024-09-09
+Golf,GLF,Golf National,LGN,2024-09-10
+Sports équestres - dressage,EDR,Château de Versailles,VER,2024-07-27
+Sports équestres - dressage,EDR,Château de Versailles,VER,2024-07-28
+Sports équestres - dressage,EDR,Château de Versailles,VER,2024-07-29
+Sports équestres - dressage,EDR,Château de Versailles,VER,2024-07-30
+Sports équestres - dressage,EDR,Château de Versailles,VER,2024-07-31
+Sports équestres - dressage,EDR,Château de Versailles,VER,2024-08-01
+Sports équestres - dressage,EDR,Château de Versailles,VER,2024-08-02
+Sports équestres - dressage,EDR,Château de Versailles,VER,2024-08-03
+Sports équestres - dressage,EDR,Château de Versailles,VER,2024-08-04
+Sports équestres - dressage,EDR,Château de Versailles,VER,2024-08-05
+Sports équestres - dressage,EDR,Château de Versailles,VER,2024-08-06
+Sports équestres - dressage,EDR,Château de Versailles,VER,2024-08-07
+Sports équestres - dressage,EDR,Château de Versailles,VER,2024-08-08
+Sports équestres - dressage,EDR,Château de Versailles,VER,2024-08-09
+Sports équestres - dressage,EDR,Château de Versailles,VER,2024-08-10
+Sports équestres - dressage,EDR,Château de Versailles,VER,2024-08-11
+Sports équestres - concours complet,EVE,Château de Versailles,VER,2024-07-27
+Sports équestres - concours complet,EVE,Château de Versailles,VER,2024-07-28
+Sports équestres - concours complet,EVE,Château de Versailles,VER,2024-07-29
+Sports équestres - concours complet,EVE,Château de Versailles,VER,2024-07-30
+Sports équestres - concours complet,EVE,Château de Versailles,VER,2024-07-31
+Sports équestres - concours complet,EVE,Château de Versailles,VER,2024-08-01
+Sports équestres - concours complet,EVE,Château de Versailles,VER,2024-08-02
+Sports équestres - concours complet,EVE,Château de Versailles,VER,2024-08-03
+Sports équestres - concours complet,EVE,Château de Versailles,VER,2024-08-04
+Sports équestres - concours complet,EVE,Château de Versailles,VER,2024-08-05
+Sports équestres - concours complet,EVE,Château de Versailles,VER,2024-08-06
+Sports équestres - concours complet,EVE,Château de Versailles,VER,2024-08-07
+Sports équestres - concours complet,EVE,Château de Versailles,VER,2024-08-08
+Sports équestres - concours complet,EVE,Château de Versailles,VER,2024-08-09
+Sports équestres - concours complet,EVE,Château de Versailles,VER,2024-08-10
+Sports équestres - concours complet,EVE,Château de Versailles,VER,2024-08-11
+Sports équestres - saut d'obstacles,EJP,Château de Versailles,VER,2024-07-27
+Sports équestres - saut d'obstacles,EJP,Château de Versailles,VER,2024-07-28
+Sports équestres - saut d'obstacles,EJP,Château de Versailles,VER,2024-07-29
+Sports équestres - saut d'obstacles,EJP,Château de Versailles,VER,2024-07-30
+Sports équestres - saut d'obstacles,EJP,Château de Versailles,VER,2024-07-31
+Sports équestres - saut d'obstacles,EJP,Château de Versailles,VER,2024-08-01
+Sports équestres - saut d'obstacles,EJP,Château de Versailles,VER,2024-08-02
+Sports équestres - saut d'obstacles,EJP,Château de Versailles,VER,2024-08-03
+Sports équestres - saut d'obstacles,EJP,Château de Versailles,VER,2024-08-04
+Sports équestres - saut d'obstacles,EJP,Château de Versailles,VER,2024-08-05
+Sports équestres - saut d'obstacles,EJP,Château de Versailles,VER,2024-08-06
+Sports équestres - saut d'obstacles,EJP,Château de Versailles,VER,2024-08-07
+Sports équestres - saut d'obstacles,EJP,Château de Versailles,VER,2024-08-08
+Sports équestres - saut d'obstacles,EJP,Château de Versailles,VER,2024-08-09
+Sports équestres - saut d'obstacles,EJP,Château de Versailles,VER,2024-08-10
+Sports équestres - saut d'obstacles,EJP,Château de Versailles,VER,2024-08-11
+Pentathlon moderne,MPN,Château de Versailles,VER,2024-07-27
+Pentathlon moderne,MPN,Château de Versailles,VER,2024-07-28
+Pentathlon moderne,MPN,Château de Versailles,VER,2024-07-29
+Pentathlon moderne,MPN,Château de Versailles,VER,2024-07-30
+Pentathlon moderne,MPN,Château de Versailles,VER,2024-07-31
+Pentathlon moderne,MPN,Château de Versailles,VER,2024-08-01
+Pentathlon moderne,MPN,Château de Versailles,VER,2024-08-02
+Pentathlon moderne,MPN,Château de Versailles,VER,2024-08-03
+Pentathlon moderne,MPN,Château de Versailles,VER,2024-08-04
+Pentathlon moderne,MPN,Château de Versailles,VER,2024-08-05
+Pentathlon moderne,MPN,Château de Versailles,VER,2024-08-06
+Pentathlon moderne,MPN,Château de Versailles,VER,2024-08-07
+Pentathlon moderne,MPN,Château de Versailles,VER,2024-08-08
+Pentathlon moderne,MPN,Château de Versailles,VER,2024-08-09
+Pentathlon moderne,MPN,Château de Versailles,VER,2024-08-10
+Pentathlon moderne,MPN,Château de Versailles,VER,2024-08-11
+Cyclisme sur piste,CTR,Vélodrome National de Saint-Quentin-en-Yvelines,VE1,2024-08-05
+Cyclisme sur piste,CTR,Vélodrome National de Saint-Quentin-en-Yvelines,VE1,2024-08-06
+Cyclisme sur piste,CTR,Vélodrome National de Saint-Quentin-en-Yvelines,VE1,2024-08-07
+Cyclisme sur piste,CTR,Vélodrome National de Saint-Quentin-en-Yvelines,VE1,2024-08-08
+Cyclisme sur piste,CTR,Vélodrome National de Saint-Quentin-en-Yvelines,VE1,2024-08-09
+Cyclisme sur piste,CTR,Vélodrome National de Saint-Quentin-en-Yvelines,VE1,2024-08-10
+Cyclisme sur piste,CTR,Vélodrome National de Saint-Quentin-en-Yvelines,VE1,2024-08-11
+Athlétisme marathon,ATH,Invalides,INV,2024-07-27
+Athlétisme marathon,ATH,Invalides,INV,2024-07-28
+Athlétisme marathon,ATH,Invalides,INV,2024-07-29
+Athlétisme marathon,ATH,Invalides,INV,2024-07-30
+Athlétisme marathon,ATH,Invalides,INV,2024-07-31
+Athlétisme marathon,ATH,Invalides,INV,2024-08-01
+Athlétisme marathon,ATH,Invalides,INV,2024-08-02
+Athlétisme marathon,ATH,Invalides,INV,2024-08-03
+Athlétisme marathon,ATH,Invalides,INV,2024-08-04
+Athlétisme marathon,ATH,Invalides,INV,2024-08-05
+Athlétisme marathon,ATH,Invalides,INV,2024-08-06
+Athlétisme marathon,ATH,Invalides,INV,2024-08-07
+Athlétisme marathon,ATH,Invalides,INV,2024-08-08
+Athlétisme marathon,ATH,Invalides,INV,2024-08-09
+Athlétisme marathon,ATH,Invalides,INV,2024-08-10
+Athlétisme marathon,ATH,Invalides,INV,2024-08-11
+Cyclisme sur route - Contre-la-montre-individuel,CRD,Invalides,INV,2024-07-27
+Cyclisme sur route - Contre-la-montre-individuel,CRD,Invalides,INV,2024-07-28
+Cyclisme sur route - Contre-la-montre-individuel,CRD,Invalides,INV,2024-07-29
+Cyclisme sur route - Contre-la-montre-individuel,CRD,Invalides,INV,2024-07-30
+Cyclisme sur route - Contre-la-montre-individuel,CRD,Invalides,INV,2024-07-31
+Cyclisme sur route - Contre-la-montre-individuel,CRD,Invalides,INV,2024-08-01
+Cyclisme sur route - Contre-la-montre-individuel,CRD,Invalides,INV,2024-08-02
+Cyclisme sur route - Contre-la-montre-individuel,CRD,Invalides,INV,2024-08-03
+Cyclisme sur route - Contre-la-montre-individuel,CRD,Invalides,INV,2024-08-04
+Cyclisme sur route - Contre-la-montre-individuel,CRD,Invalides,INV,2024-08-05
+Cyclisme sur route - Contre-la-montre-individuel,CRD,Invalides,INV,2024-08-06
+Cyclisme sur route - Contre-la-montre-individuel,CRD,Invalides,INV,2024-08-07
+Cyclisme sur route - Contre-la-montre-individuel,CRD,Invalides,INV,2024-08-08
+Cyclisme sur route - Contre-la-montre-individuel,CRD,Invalides,INV,2024-08-09
+Cyclisme sur route - Contre-la-montre-individuel,CRD,Invalides,INV,2024-08-10
+Cyclisme sur route - Contre-la-montre-individuel,CRD,Invalides,INV,2024-08-11
+Tir à l'arc,ARC,Invalides,INV,2024-07-27
+Tir à l'arc,ARC,Invalides,INV,2024-07-28
+Tir à l'arc,ARC,Invalides,INV,2024-07-29
+Tir à l'arc,ARC,Invalides,INV,2024-07-30
+Tir à l'arc,ARC,Invalides,INV,2024-07-31
+Tir à l'arc,ARC,Invalides,INV,2024-08-01
+Tir à l'arc,ARC,Invalides,INV,2024-08-02
+Tir à l'arc,ARC,Invalides,INV,2024-08-03
+Tir à l'arc,ARC,Invalides,INV,2024-08-04
+Tir à l'arc,ARC,Invalides,INV,2024-08-05
+Tir à l'arc,ARC,Invalides,INV,2024-08-06
+Tir à l'arc,ARC,Invalides,INV,2024-08-07
+Tir à l'arc,ARC,Invalides,INV,2024-08-08
+Tir à l'arc,ARC,Invalides,INV,2024-08-09
+Tir à l'arc,ARC,Invalides,INV,2024-08-10
+Tir à l'arc,ARC,Invalides,INV,2024-08-11
+Natation,SWM,Paris La Défense Arena,DEF,2024-07-27
+Natation,SWM,Paris La Défense Arena,DEF,2024-07-28
+Natation,SWM,Paris La Défense Arena,DEF,2024-07-29
+Natation,SWM,Paris La Défense Arena,DEF,2024-07-30
+Natation,SWM,Paris La Défense Arena,DEF,2024-07-31
+Natation,SWM,Paris La Défense Arena,DEF,2024-08-01
+Natation,SWM,Paris La Défense Arena,DEF,2024-08-02
+Natation,SWM,Paris La Défense Arena,DEF,2024-08-03
+Natation,SWM,Paris La Défense Arena,DEF,2024-08-04
+Natation,SWM,Paris La Défense Arena,DEF,2024-08-05
+Natation,SWM,Paris La Défense Arena,DEF,2024-08-06
+Natation,SWM,Paris La Défense Arena,DEF,2024-08-07
+Natation,SWM,Paris La Défense Arena,DEF,2024-08-08
+Natation,SWM,Paris La Défense Arena,DEF,2024-08-09
+Natation,SWM,Paris La Défense Arena,DEF,2024-08-10
+Natation,SWM,Paris La Défense Arena,DEF,2024-08-11
+Water-polo,WPO,Paris La Défense Arena,DEF,2024-07-27
+Water-polo,WPO,Paris La Défense Arena,DEF,2024-07-28
+Water-polo,WPO,Paris La Défense Arena,DEF,2024-07-29
+Water-polo,WPO,Paris La Défense Arena,DEF,2024-07-30
+Water-polo,WPO,Paris La Défense Arena,DEF,2024-07-31
+Water-polo,WPO,Paris La Défense Arena,DEF,2024-08-01
+Water-polo,WPO,Paris La Défense Arena,DEF,2024-08-02
+Water-polo,WPO,Paris La Défense Arena,DEF,2024-08-03
+Water-polo,WPO,Paris La Défense Arena,DEF,2024-08-04
+Water-polo,WPO,Paris La Défense Arena,DEF,2024-08-05
+Water-polo,WPO,Paris La Défense Arena,DEF,2024-08-06
+Water-polo,WPO,Paris La Défense Arena,DEF,2024-08-07
+Water-polo,WPO,Paris La Défense Arena,DEF,2024-08-08
+Water-polo,WPO,Paris La Défense Arena,DEF,2024-08-09
+Water-polo,WPO,Paris La Défense Arena,DEF,2024-08-10
+Water-polo,WPO,Paris La Défense Arena,DEF,2024-08-11
+BMX Racing,BMX,Stade BMX de Saint-Quentin-en-Yvelines,VE2,2024-09-01
+BMX Racing,BMX,Stade BMX de Saint-Quentin-en-Yvelines,VE2,2024-09-02
+Tir,SHO,Centre national de tir de Châteauroux,CTX,2024-07-27
+Tir,SHO,Centre national de tir de Châteauroux,CTX,2024-07-28
+Tir,SHO,Centre national de tir de Châteauroux,CTX,2024-07-29
+Tir,SHO,Centre national de tir de Châteauroux,CTX,2024-07-30
+Tir,SHO,Centre national de tir de Châteauroux,CTX,2024-07-31
+Tir,SHO,Centre national de tir de Châteauroux,CTX,2024-08-01
+Tir,SHO,Centre national de tir de Châteauroux,CTX,2024-08-02
+Tir,SHO,Centre national de tir de Châteauroux,CTX,2024-08-03
+Tir,SHO,Centre national de tir de Châteauroux,CTX,2024-08-04
+Tir,SHO,Centre national de tir de Châteauroux,CTX,2024-08-05
+Basketball 3x3,BK3,La Concorde 1,LC1,2024-07-30
+Basketball 3x3,BK3,La Concorde 1,LC1,2024-07-31
+Basketball 3x3,BK3,La Concorde 1,LC1,2024-08-01
+Basketball 3x3,BK3,La Concorde 1,LC1,2024-08-02
+Basketball 3x3,BK3,La Concorde 1,LC1,2024-08-03
+Basketball 3x3,BK3,La Concorde 1,LC1,2024-08-04
+Basketball 3x3,BK3,La Concorde 1,LC1,2024-08-05
+Basketball 3x3,BK3,La Concorde 1,LC1,2024-08-06
+Basketball 3x3,BK3,La Concorde 1,LC1,2024-08-07
+Basketball 3x3,BK3,La Concorde 1,LC1,2024-08-08
+Basketball 3x3,BK3,La Concorde 1,LC1,2024-08-09
+Basketball 3x3,BK3,La Concorde 1,LC1,2024-08-10
+Breaking,BKG,La Concorde 1,LC1,2024-07-30
+Breaking,BKG,La Concorde 1,LC1,2024-07-31
+Breaking,BKG,La Concorde 1,LC1,2024-08-01
+Breaking,BKG,La Concorde 1,LC1,2024-08-02
+Breaking,BKG,La Concorde 1,LC1,2024-08-03
+Breaking,BKG,La Concorde 1,LC1,2024-08-04
+Breaking,BKG,La Concorde 1,LC1,2024-08-05
+Breaking,BKG,La Concorde 1,LC1,2024-08-06
+Breaking,BKG,La Concorde 1,LC1,2024-08-07
+Breaking,BKG,La Concorde 1,LC1,2024-08-08
+Breaking,BKG,La Concorde 1,LC1,2024-08-09
+Breaking,BKG,La Concorde 1,LC1,2024-08-10
+BMX freestyle,BMF,La Concorde 2,LC2,2024-07-30
+BMX freestyle,BMF,La Concorde 2,LC2,2024-07-31
+Skateboard - Street,SKB,La Concorde 3,LC3,2024-07-27
+Skateboard - Street,SKB,La Concorde 3,LC3,2024-07-28
+Skateboard - Park,SKB,La Concorde 4,LC4,2024-08-06
+Skateboard - Park,SKB,La Concorde 4,LC4,2024-08-07
+Cyclisme sur route - Contre-la-montre-individuel,CRD,PontAlexandre III,ALX,2024-07-27
+Cyclisme sur route - Contre-la-montre-individuel,CRD,PontAlexandre III,ALX,2024-07-28
+Cyclisme sur route - Contre-la-montre-individuel,CRD,PontAlexandre III,ALX,2024-07-29
+Cyclisme sur route - Contre-la-montre-individuel,CRD,PontAlexandre III,ALX,2024-07-30
+Cyclisme sur route - Contre-la-montre-individuel,CRD,PontAlexandre III,ALX,2024-07-31
+Cyclisme sur route - Contre-la-montre-individuel,CRD,PontAlexandre III,ALX,2024-08-01
+Cyclisme sur route - Contre-la-montre-individuel,CRD,PontAlexandre III,ALX,2024-08-02
+Cyclisme sur route - Contre-la-montre-individuel,CRD,PontAlexandre III,ALX,2024-08-03
+Cyclisme sur route - Contre-la-montre-individuel,CRD,PontAlexandre III,ALX,2024-08-04
+Cyclisme sur route - Contre-la-montre-individuel,CRD,PontAlexandre III,ALX,2024-08-05
+Natation marathon,OWS,PontAlexandre III,ALX,2024-07-27
+Natation marathon,OWS,PontAlexandre III,ALX,2024-07-28
+Natation marathon,OWS,PontAlexandre III,ALX,2024-07-29
+Natation marathon,OWS,PontAlexandre III,ALX,2024-07-30
+Natation marathon,OWS,PontAlexandre III,ALX,2024-07-31
+Natation marathon,OWS,PontAlexandre III,ALX,2024-08-01
+Natation marathon,OWS,PontAlexandre III,ALX,2024-08-02
+Natation marathon,OWS,PontAlexandre III,ALX,2024-08-03
+Natation marathon,OWS,PontAlexandre III,ALX,2024-08-04
+Natation marathon,OWS,PontAlexandre III,ALX,2024-08-05
+Triathlon,TRI,PontAlexandre III,ALX,2024-07-27
+Triathlon,TRI,PontAlexandre III,ALX,2024-07-28
+Triathlon,TRI,PontAlexandre III,ALX,2024-07-29
+Triathlon,TRI,PontAlexandre III,ALX,2024-07-30
+Triathlon,TRI,PontAlexandre III,ALX,2024-07-31
+Triathlon,TRI,PontAlexandre III,ALX,2024-08-01
+Triathlon,TRI,PontAlexandre III,ALX,2024-08-02
+Triathlon,TRI,PontAlexandre III,ALX,2024-08-03
+Triathlon,TRI,PontAlexandre III,ALX,2024-08-04
+Triathlon,TRI,PontAlexandre III,ALX,2024-08-05
+Athlétisme marathon,ATH,Hôtel de Ville,HDV,2024-08-10
+Athlétisme marathon,ATH,Hôtel de Ville,HDV,2024-08-11
+Natation artistique,SWA,Centre Aquatique,AQC,2024-07-27
+Natation artistique,SWA,Centre Aquatique,AQC,2024-07-28
+Natation artistique,SWA,Centre Aquatique,AQC,2024-07-29
+Natation artistique,SWA,Centre Aquatique,AQC,2024-07-30
+Natation artistique,SWA,Centre Aquatique,AQC,2024-07-31
+Natation artistique,SWA,Centre Aquatique,AQC,2024-08-01
+Natation artistique,SWA,Centre Aquatique,AQC,2024-08-02
+Natation artistique,SWA,Centre Aquatique,AQC,2024-08-03
+Natation artistique,SWA,Centre Aquatique,AQC,2024-08-04
+Natation artistique,SWA,Centre Aquatique,AQC,2024-08-05
+Natation artistique,SWA,Centre Aquatique,AQC,2024-08-06
+Natation artistique,SWA,Centre Aquatique,AQC,2024-08-07
+Natation artistique,SWA,Centre Aquatique,AQC,2024-08-08
+Natation artistique,SWA,Centre Aquatique,AQC,2024-08-09
+Natation artistique,SWA,Centre Aquatique,AQC,2024-08-10
+Plongeon,DIV,Centre Aquatique,AQC,2024-07-27
+Plongeon,DIV,Centre Aquatique,AQC,2024-07-28
+Plongeon,DIV,Centre Aquatique,AQC,2024-07-29
+Plongeon,DIV,Centre Aquatique,AQC,2024-07-30
+Plongeon,DIV,Centre Aquatique,AQC,2024-07-31
+Plongeon,DIV,Centre Aquatique,AQC,2024-08-01
+Plongeon,DIV,Centre Aquatique,AQC,2024-08-02
+Plongeon,DIV,Centre Aquatique,AQC,2024-08-03
+Plongeon,DIV,Centre Aquatique,AQC,2024-08-04
+Plongeon,DIV,Centre Aquatique,AQC,2024-08-05
+Plongeon,DIV,Centre Aquatique,AQC,2024-08-06
+Plongeon,DIV,Centre Aquatique,AQC,2024-08-07
+Plongeon,DIV,Centre Aquatique,AQC,2024-08-08
+Plongeon,DIV,Centre Aquatique,AQC,2024-08-09
+Plongeon,DIV,Centre Aquatique,AQC,2024-08-10
+Water-polo,WPO,Centre Aquatique,AQC,2024-07-27
+Water-polo,WPO,Centre Aquatique,AQC,2024-07-28
+Water-polo,WPO,Centre Aquatique,AQC,2024-07-29
+Water-polo,WPO,Centre Aquatique,AQC,2024-07-30
+Water-polo,WPO,Centre Aquatique,AQC,2024-07-31
+Water-polo,WPO,Centre Aquatique,AQC,2024-08-01
+Water-polo,WPO,Centre Aquatique,AQC,2024-08-02
+Water-polo,WPO,Centre Aquatique,AQC,2024-08-03
+Water-polo,WPO,Centre Aquatique,AQC,2024-08-04
+Water-polo,WPO,Centre Aquatique,AQC,2024-08-05
+Water-polo,WPO,Centre Aquatique,AQC,2024-08-06
+Water-polo,WPO,Centre Aquatique,AQC,2024-08-07
+Water-polo,WPO,Centre Aquatique,AQC,2024-08-08
+Water-polo,WPO,Centre Aquatique,AQC,2024-08-09
+Water-polo,WPO,Centre Aquatique,AQC,2024-08-10
+Canoë-kayak slalom,CSL,Stade nautique de Vaires-sur-Marne - stade d'eau vive,VN2,2024-07-27
+Canoë-kayak slalom,CSL,Stade nautique de Vaires-sur-Marne - stade d'eau vive,VN2,2024-07-28
+Canoë-kayak slalom,CSL,Stade nautique de Vaires-sur-Marne - stade d'eau vive,VN2,2024-07-29
+Canoë-kayak slalom,CSL,Stade nautique de Vaires-sur-Marne - stade d'eau vive,VN2,2024-07-30
+Canoë-kayak slalom,CSL,Stade nautique de Vaires-sur-Marne - stade d'eau vive,VN2,2024-07-31
+Canoë-kayak slalom,CSL,Stade nautique de Vaires-sur-Marne - stade d'eau vive,VN2,2024-08-01
+Canoë-kayak slalom,CSL,Stade nautique de Vaires-sur-Marne - stade d'eau vive,VN2,2024-08-02
+Canoë-kayak slalom,CSL,Stade nautique de Vaires-sur-Marne - stade d'eau vive,VN2,2024-08-03
+Canoë-kayak slalom,CSL,Stade nautique de Vaires-sur-Marne - stade d'eau vive,VN2,2024-08-04
+Canoë-kayak slalom,CSL,Stade nautique de Vaires-sur-Marne - stade d'eau vive,VN2,2024-08-05
+Football,FBL,Stade de Marseille,MRS,2024-07-24
+Football,FBL,Stade de Marseille,MRS,2024-07-25
+Football,FBL,Stade de Marseille,MRS,2024-07-26
+Football,FBL,Stade de Marseille,MRS,2024-07-27
+Football,FBL,Stade de Marseille,MRS,2024-07-28
+Football,FBL,Stade de Marseille,MRS,2024-07-29
+Football,FBL,Stade de Marseille,MRS,2024-07-30
+Football,FBL,Stade de Marseille,MRS,2024-07-31
+Football,FBL,Stade de Marseille,MRS,2024-08-01
+Football,FBL,Stade de Marseille,MRS,2024-08-02
+Football,FBL,Stade de Marseille,MRS,2024-08-03
+Football,FBL,Stade de Marseille,MRS,2024-08-04
+Football,FBL,Stade de Marseille,MRS,2024-08-05
+Football,FBL,Stade de Marseille,MRS,2024-08-06
+Football,FBL,Stade de Marseille,MRS,2024-08-07
+Football,FBL,Stade de Marseille,MRS,2024-08-08
+Football,FBL,Stade de Marseille,MRS,2024-08-09
+Football,FBL,Stade de Marseille,MRS,2024-08-10
