@@ -81,3 +81,7 @@ La faisabilité de ce projet, sous l'angle juridique, dépend de plusieurs facte
 Si ce projet de billeterie électronique pour les Jeux Olympiques de Paris 2024 est conçu et mis en œuvre en tenant compte des aspects juridiques français, notamment en assurant la conformité au RGPD, en respectant les règles anti-fraude, en garantissant la transparence dans la distribution des billets et en assurant la sécurité des transactions financières, il devrait être faisable sur le plan juridique. Toutefois, au vu de la dimension du projet, de ses enjeux et de son caractère international, il est souhaitable et même préférable de faire appel à une équipe d'expert juridique afin de s'assurer au mieux de la conformité des aspects legislatifs de notre solution avec les textes en vigueur en 2024.
 
 ## Données JO France
+
+[data.paris2024.org](https://data.paris2024.org/pages/accueil/)
+
+[Paris 2024 - Sites de compétition](https://data.paris2024.org/explore/dataset/paris-2024-sites-de-competition/information/)
