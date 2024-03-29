@@ -8,7 +8,7 @@ A partir des sujets, dégager les éléments pour créer les use cases et énum�
 
 ## 2. Spécification technique
 
-- Justifier le choix de l'architecture 3-tiers.
+- Justifier le choix de l'architecture.
 - Déterminer et justifier les contraintes de sécurité.
 - Déterminer et discuter les aspects juridiques de la solution.
 - Déterminer et justifier les données `évènements JO` à présenter dans la solution.
@@ -23,7 +23,7 @@ Déterminer les risques potentiels du projet : analyse SWOT de la solution.
 
 ## 5. Design UX/UI de la solution
 
-- Créer les mockups et le design avec Figma.
+- Créer les maquettes et le design avec Figma.
 - Assembler et choisir les ressources visuelles (icones, images, polices, etc).
 
 ## 6. Plan de développement et tests fonctionnels
