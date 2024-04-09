@@ -1,0 +1,19 @@
+<!-- signup.html -->
+{% extends 'base.html' %}
+
+
+{% block content %}
+<div class="container">
+    <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+        <div>
+            <h2>Inscription</h2>
+            <form method="post">
+                {% csrf_token %}
+                {{ form.as_p }}
+                <button type="submit">S'inscrire</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
